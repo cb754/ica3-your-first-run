@@ -29,5 +29,5 @@ Welcome to your first run at Git! This is a simple exercise to get you familiar 
 - Q10. Stage and commit your final changes, with a message about the third page and images. Push your final changes to GitHub.
 
 ## Submission
-- Submit the URL to your GitHub repository to Learning Suite.
+- Submit the URL from your GitHub repository to Learning Suite.
 - Take a screenshot of your repository's main page, showing proof of your multiple commits, and include it in your submission as well.
